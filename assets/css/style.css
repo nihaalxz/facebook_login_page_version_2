@@ -1,0 +1,138 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family:'klavika';
+}
+@font-face {
+    font-family:'klavika';
+    src: url('/assets/css/font/klavika-bold.otf') format('woff2');
+    font-weight: normal;
+    font-style: normal; 
+}
+body{
+    background-color: #dfe3ee;
+}
+.top_nav
+{
+    background-color: #3b5998;
+    width: 100%;
+    height: 10vh;
+    position: relative;
+   
+}
+.flogo
+{
+    color: white;
+    position:absolute;
+    top:15%;
+    left:5%;
+    font-size:3rem;
+    
+}
+.forms
+{
+    position: absolute;
+    left:65%;
+    bottom: 30%;
+    color: white;
+    
+    
+}
+#inputone
+{
+    margin-right: 20px;
+}
+#password_txt
+{
+    margin-left: 75px;
+    
+}
+#login_btn
+{
+    background-color: #8b9dc3;
+    border: none;
+    color: white;
+    margin-left: 20px;
+    padding:5px;
+    border-radius:2px;
+}
+.forgor
+{
+    position: absolute;
+    left: 45%;   
+}
+#facebook_intro
+{
+    color:#3b5998;
+
+}
+
+.container_people
+{
+    margin: 30px;
+}
+#email,#pass_form
+{
+    width: 100%;
+}
+#dob_sub_txt
+{
+    color:#3b5998;
+    font-size: 0.7rem;
+}
+.tandc
+{
+    font-size: 0.7rem;
+    opacity: 0.7;
+
+}
+#create_an_account
+{
+    height: 40px;
+    width: 70%;
+    border-radius: 5px;
+    color:white;
+    background-color: rgb(57, 160, 57);
+    font-size: 1.1rem;
+    padding: 10px;
+    border: none;
+}
+.footer_text
+{
+    font-size: 0.8rem;
+    margin-top: 20px;
+
+
+}
+img{
+    
+    width: 50%;
+}
+
+.container_form
+{
+    position: absolute;
+    left: 60%;
+    bottom:16%;
+
+}
+table
+{
+    border-spacing: 10px;
+}
+ .form_in
+{
+    height: 35px;
+} 
+
+.top_in
+{
+    width: 150px;
+    height: 20px;
+}
+#fname
+{
+    width: 50%;
+}
